@@ -1,0 +1,8 @@
+@layer utilities {
+    .content-auto {
+      content-visibility: auto;
+    }
+    .img{
+        background-image: url("spaceweather2.en.jpg");
+    }
+  }
